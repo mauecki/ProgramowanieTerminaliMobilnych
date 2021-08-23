@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt2/app/src/main/res/layout/activity_category.xml" value="0.1265625" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt2/app/src/main/res/layout/activity_main.xml" value="0.11676798378926039" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt2/app/src/main/res/layout/activity_score.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt2/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt55/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt55/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt55/app/src/main/res/layout/activity_category.xml" value="0.11875" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt55/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt55/app/src/main/res/layout/activity_option.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt55/app/src/main/res/layout/activity_score.xml" value="0.152" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout-land/activity_option.xml" value="0.6" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout-land/activity_score.xml" value="0.176" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/activity_category.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/activity_option.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/activity_score.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/activity_user.xml" value="0.1109375" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/layout/item_user.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/HP/Dropbox/studia/S6/Programowanie_terminali_mobilnych/Lab/projekt90/app/src/main/res/menu/nav_menu.xml" value="0.12135416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

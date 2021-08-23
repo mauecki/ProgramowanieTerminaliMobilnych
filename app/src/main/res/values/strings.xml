@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WordsGame</string>
+    <string name="guess_info">Guess The Word!!!</string>
+    <string name="score">"SCORE: "</string>
+    <string name="skip">"Skip: "</string>
+    <string name="distractor">Wrong answer! try again or skip!</string>
+    <string name="skipAlert">You skipped! Available skips: </string>
+    <string name="category">Category: </string>
+    <string name="b_score">"Best score: "</string>
+    <string name="s_score">"Second score: "</string>
+    <string name="t_score">"Third score: "</string>
+    <string name="formatted_time">%02d:%02d</string>
+    <string name="player">Your name:</string>
+    <string name="f_score">"Fourth score: "</string>
+    <string name="Easy">Easy (45 seconds, 3 skips)</string>
+    <string name="Medium">Medium (30 seconds, 2 skips)</string>
+    <string name="Hard">Hard (20 seconds, 1 skips)</string>
+</resources>
